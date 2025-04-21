@@ -20,7 +20,7 @@ One-hot encoding for categorical variables like Operating Airline and Boarding A
 
 Hierarchical clustering using Ward linkage and Euclidean distance
 
-Model evaluation using Silhouette Score (achieved: 0.79)
+Model evaluation using Silhouette Score (achieved: 0.62)
 
 🔹 Key Features Engineered
 
@@ -49,5 +49,9 @@ Cluster 2 includes low-demand periods/terminals, which may benefit from optimiza
 👀 Visualizations
 
 Dendrogram for cluster hierarchy interpretation
+![image](https://github.com/user-attachments/assets/af2dc6f1-ba4d-4142-8e7d-2a1b12907ed5)
 
 Boxplot of Passenger Count per cluster
+![image](https://github.com/user-attachments/assets/75f57234-ee24-4ae3-b96c-07dfccd7236a)
+
+
