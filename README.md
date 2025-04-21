@@ -72,6 +72,6 @@ Run notebooks/clustering_analysis.ipynb
 
 👤 Author
 Kamalnath Kuumaran
-Linkedin | Github
+Linkedin - www.linkedin.com/in/kamalnath-kumaran-141082200 | Github - https://github.com/kamalnath-k2?tab=repositories
 
 
