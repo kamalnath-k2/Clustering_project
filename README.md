@@ -49,9 +49,30 @@ Cluster 2 includes low-demand periods/terminals, which may benefit from optimiza
 👀 Visualizations
 
 Dendrogram for cluster hierarchy interpretation
+
 ![image](https://github.com/user-attachments/assets/af2dc6f1-ba4d-4142-8e7d-2a1b12907ed5)
 
 Boxplot of Passenger Count per cluster
+
 ![image](https://github.com/user-attachments/assets/75f57234-ee24-4ae3-b96c-07dfccd7236a)
+
+🚀 Tools & Technologies
+
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn, scipy
+
+Jupyter Notebook
+
+🔗 How to Reproduce
+
+Clone this repository
+
+Install dependencies: pip install -r requirements.txt
+
+Run notebooks/clustering_analysis.ipynb
+
+👤 Author
+
+Kamalnath Kuumaran
+LinkedIn | GitHub
 
 
