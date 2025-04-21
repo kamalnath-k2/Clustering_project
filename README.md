@@ -71,8 +71,7 @@ Install dependencies: pip install -r requirements.txt
 Run notebooks/clustering_analysis.ipynb
 
 👤 Author
-
 Kamalnath Kuumaran
-LinkedIn | GitHub
+Linkedin | Github
 
 
